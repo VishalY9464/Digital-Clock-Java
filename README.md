@@ -1,21 +1,21 @@
-# 🕒 Digital Clock using Java Swing
+#  Digital Clock using Java Swing
 
 A simple, real-time **Digital Clock** application built using **Java Swing**. The app displays the current time and date, allows theme switching between dark and light mode, start/stop functionality, and plays an alarm sound on button click.
 
 ---
 
-## ⚙️ Features
+## Features
 
-- 🕐 Displays real-time **current time**
-- 📅 Shows **current date** (e.g., Monday, 18 April 2025)
-- 🌗 Switch between **Dark Mode** and **Light Mode**
-- ▶️ Start / ⏸️ Stop the clock
-- 🔔 Play **alarm sound**
-- 🎯 Built using `Java`, `Swing`, and `Timer` class
+-  Displays real-time **current time**
+-  Shows **current date** (e.g., Monday, 18 April 2025)
+-  Switch between **Dark Mode** and **Light Mode**
+-  Start / Stop the clock
+-  Play **alarm sound**
+-  Built using `Java`, `Swing`, and `Timer` class
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - Java Swing
@@ -25,7 +25,7 @@ A simple, real-time **Digital Clock** application built using **Java Swing**. Th
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository  
    ```bash
